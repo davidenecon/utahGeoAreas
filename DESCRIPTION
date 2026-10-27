@@ -26,3 +26,5 @@ Suggests:
 Config/testthat/edition: 3
 Depends: 
     R (>= 3.5)
+URL: https://github.com/davidenecon/utahGeoAreas
+BugReports: https://github.com/davidenecon/utahGeoAreas/issues
